@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Video Detail</title>
+</head>
+<body>
+    <h1>Video Detail</h1>
+    <video controls>
+        <source src="{{ Course.featured_video.url }}" type="{{ video.video_file.url|file_mime }}">
+        Your browser does not support the video tag.
+    </video>
+    <p>Title: {{ Course.title }}</p>
+</body>
+</html>

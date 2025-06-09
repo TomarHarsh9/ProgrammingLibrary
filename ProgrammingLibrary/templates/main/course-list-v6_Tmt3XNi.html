@@ -1,0 +1,22 @@
+
+<!--contact_us-->
+{% extends 'base.html'%}
+{% load static%}
+
+{%block contant%}
+<!-- PAGE TITLE
+    ================================================== -->
+    <header class="py-4 py-md-7" style="background-image: none;">
+        <div class="container text-center py-xl-2">
+            <h1 class="display-6 fw-semi-bold mb-0">Get in touch today!</h1>
+
+        </div>
+
+        {% for i in coursePage %}
+
+          <p>{{i.discription}}</p>
+
+         {% endfor%}
+
+    </header>
+{% endblock %}

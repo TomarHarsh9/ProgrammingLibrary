@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block contant %}
+
+<body>
+     {% for i in course %}
+
+           <h3> Title: {{ i.title }} </h3>
+
+       <div class="container pb-4 pb-xl-7">
+
+         <div class="mb-8">
+                <div class="py-12 py-md-14 bg-cover rounded text-center" >
+                    {% for au in author %}
+                        <h1> NAME: {{au.about_author}} </h1>
+                    {% endfor %}
+                </div>
+
+         </div>
+       </div>
+     {% endfor %}
+
+</body>
+
+{%endblock%}
