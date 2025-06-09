@@ -11,8 +11,9 @@ tutorials for core CS subjects like DBMS, CN, OS, etc.
 <br>
 ~HARSH TOMAR
 
-![Screenshot (85) - Copy](https://github.com/user-attachments/assets/24be2881-ed3b-46f5-a84c-408c7e124bf8)
-![Screenshot (82)](https://github.com/user-attachments/assets/53617f9d-92ac-4f44-abb8-c90fa27c2d4a)
-![Screenshot (88)](https://github.com/user-attachments/assets/9a3de535-4552-4a5f-910d-64934910fef6)
-![Screenshot (86) - Copy](https://github.com/user-attachments/assets/39cadcf4-3aee-4c64-af4e-2c4d3cb40b99)
+![Screenshot (85) - Copy](https://github.com/user-attachments/assets/5ee43719-2447-418f-9fe4-cda761028b12)
 
+![Screenshot (82)](https://github.com/user-attachments/assets/7844a2af-65bf-46cd-9501-65c132156fb5)
+![Screenshot (86) - Copy](https://github.com/user-attachments/assets/3ea43bd6-78bb-49c4-a105-558903c000c1)
+![Screenshot (88)](https://github.com/user-attachments/assets/5fadf180-3494-4039-bc4f-51cdf0cbacd6)
+![Screenshot (81)](https://github.com/user-attachments/assets/94d79015-4975-4143-b53d-d009c175b667)
